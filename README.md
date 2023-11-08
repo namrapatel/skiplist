@@ -1,8 +1,7 @@
 skiplist
 ===============
 
-reference from redis [zskiplist](https://github.com/antirez/redis)
-
+A thread-safe Redis [zskiplist](https://github.com/antirez/redis) with support for node ranking.
 
 Usage
 ===============
